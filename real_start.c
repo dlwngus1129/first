@@ -27,3 +27,4 @@ int main()
 } 
 
 //what happen if i change something in first code
+//changed second
