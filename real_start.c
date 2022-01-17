@@ -26,5 +26,4 @@ int main()
     printf("%d %d", min, max);
 } 
 
-//what happen if i change something in first code
-//changed second d
+//changed here
